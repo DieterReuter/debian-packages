@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "Example: it's worling..."
+echo "Example: it's working..."
 
