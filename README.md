@@ -25,5 +25,5 @@ Extract the complete package to a local `test` directory
 ./test-deb.sh
 ```
 
-# Have fun builing your own packages!
+# Have fun building your own packages!
 
