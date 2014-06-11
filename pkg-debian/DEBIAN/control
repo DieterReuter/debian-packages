@@ -1,10 +1,10 @@
 Package: example
-Version: 1.0.0.0-alpha
-Architecture: all
+Version: 1.0.0.2
+Architecture: amd64
 Essential: no
 Section: web
 Priority: optional
 Depends: bash (>=4.2)
 Maintainer: Dieter Reuter <dieter.reuter@me.com>
-Installed-Size: 20
+Installed-Size: 84
 Description: A pure simple Example application for testing a Debian package.

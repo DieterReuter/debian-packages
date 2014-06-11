@@ -1,0 +1,11 @@
+Format: 1.8
+Date: Mon, 10 Jul 2014 10:58:00 +0200
+Source: example
+Binary: example
+Architecture: amd64
+Distribution: am5
+Maintainer: Manni
+Description: A pure simple Example application for testing a Debian package
+Changes:
+ only a test
+Files:
